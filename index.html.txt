@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Planify X Software</title>
+<style>
+body {
+font-family: Arial, sans-serif;
+background-color: #ffffff;
+color: #000000;
+margin: 0;
+padding: 0;
+}
+header {
+background-color: #0000FF;
+color: #ffffff;
+padding: 20px 0;
+text-align: center;
+}
+nav {
+display: flex;
+justify-content: center;
+background-color: #FFD700;
+padding: 10px 0;
+}
+nav a {
+margin: 0 15px;
+text-decoration: none;
+color: #000000;
+font-weight: bold;
+}
+section {
+padding: 20px;
+max-width: 1000px;
+margin: 0 auto;
+}
+footer {
+background-color: #0000FF;
+color: #ffffff;
+text-align: center;
+padding: 10px 0;
+position: fixed;
+bottom: 0;
+width: 100%;
+}
+</style>
+</head>
+<body>
+
+<header>
+<h1>🚀 Planify X Software</h1>
+<p>All In One AI Marketing Platform</p>
+<p>🔥 Don't miss our HotSale 🔥</p>
+<p>Unlimited ChatGPT chatbots for WhatsApp, Facebook, Instagram, Telegram and much more!</p>
+</header>
+
+<nav>
+<a href="#about">About Us</a>
+<a href="#services">Services</a>
+<a href="#pricing">Pricing</a>
+<a href="#testimonials">Testimonials</a>
+<a href="#contact">Contact</a>
+</nav>
+
+<section id="about">
+<h2>About Us</h2>
+<p>Planify X Software is a leading provider of AI-driven marketing solutions. Our platform offers a comprehensive suite of tools to help businesses automate their marketing efforts across multiple channels, including WhatsApp, Facebook, Instagram, and Telegram.</p>
+</section>
+
+<section id="services">
+<h2>Services</h2>
+<ul>
+<li>AI Chatbots for WhatsApp, Facebook, Instagram, Telegram</li>
+<li>Automated Marketing Campaigns</li>
+<li>Customer Engagement Solutions</li>
+<li>Analytics and Reporting</li>
+</ul>
+</section>
+
+<section id="pricing">
+<h2>Pricing</h2>
+<p>Contact us for detailed pricing plans and special offers.</p>
+</section>
+
+<section id="testimonials">
+<h2>Testimonials</h2>
+<p>See what our satisfied customers have to say about Planify X Software.</p>
+<!-- Example testimonial -->
+<blockquote>
+<p>"Planify X has revolutionized our marketing strategy. The AI chatbots are amazing!" - Happy Customer</p>
+</blockquote>
+</section>
+
+<section id="contact">
+<h2>Contact</h2>
+<p>Email: support@planifyxsoftware.com</p>
+<p>Phone: +123-456-7890</p>
+<p>Address: 1234 Marketing St, Business City, Country</p>
+</section>
+
+<footer>
+<p>&copy; 2024 Planify X Software. All rights reserved.</p>
+</footer>
+
+</body>
+</html>
